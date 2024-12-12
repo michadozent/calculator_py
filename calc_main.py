@@ -8,7 +8,7 @@ Benutzereingabe (input)
 - erste Zahl: 4
 - Operator: +
 - zweite Zahl: 2
->>> Ergebnis:6 
+Ergebnis:6 
 -weiter (y/n?)
 
 Optional:
